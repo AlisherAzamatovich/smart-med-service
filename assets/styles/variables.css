@@ -1,0 +1,12 @@
+:root {
+  --greenColor: #67BA30;
+  --blackColor: #000;
+  --subTitleColor: #4D4D4D;
+  --inputColor: #9F9F9F;
+  --whiteColor: #fff;
+  --linkColor: #5E5E5E;
+  --grayColor: #3A3A3A;
+  --robBold: 'Roboto-Bold';
+  --robMedium: 'Roboto-Medium';
+  --robRegular: 'Roboto-Regular';
+}
